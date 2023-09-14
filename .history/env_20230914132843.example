@@ -1,0 +1,5 @@
+PORT = your port
+DB_HOST =  your host
+DB_USERNAME =your table name
+DB_PASSWORD = your password
+DB_NAME = yor database
